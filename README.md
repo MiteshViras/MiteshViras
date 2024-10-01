@@ -3,6 +3,7 @@
 ## 💻 Full Stack Developer | PHP/Laravel Expert | Node.js Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mitesh-viras)
+[![x (Twitter)](https://img.shields.io/twitter/follow/mitesh_viras)](https://x.com/mitesh_viras)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:virashmitesh@gmail.com)
 
 Passionate Full Stack Developer with a love for clean code and innovative solutions. Specialized in Laravel and Adonis.js, with a track record of delivering high-quality, scalable web applications.
@@ -17,6 +18,7 @@ Passionate Full Stack Developer with a love for clean code and innovative soluti
 - 7 Laravel Projects
 - 4 Adonis.js Projects
 - 1 Next.js Frontend Project
+- 4 Others
 
 ### 🏆 Notable Projects
 
@@ -37,7 +39,7 @@ Backend       Frontend        DevOps         Tools
 Laravel       React          Docker         Git
 Adonis.js     Next.js        CI/CD          VS Code
 PHP           Tailwind       AWS            Postman
-Node.js       JavaScript                    Figma
+Node.js       JavaScript                    
 ```
 
 ### 📈 GitHub Activity
