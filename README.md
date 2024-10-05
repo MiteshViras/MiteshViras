@@ -40,6 +40,7 @@ Laravel       React          Docker         Git
 Adonis.js     Next.js        CI/CD          VS Code
 PHP           Tailwind       AWS            Postman
 Node.js       JavaScript                    
+Nest.js
 ```
 
 ### 📈 GitHub Activity
