@@ -22,12 +22,13 @@ Passionate Full Stack Developer with a love for clean code and innovative soluti
 
 ### 🏆 Notable Projects
 
-1. Saibabatours.com
-2. 4psenergyconsultant.com
-3. Adonis.js v6 Starter API Kit
-4. TheBuilder
-5. Digital Restro
-6. Streamline Transportation Technologies Inc
+1. [Saibabatours.com](https://saibabatours.com)
+2. [4psenergyconsultant.com](https://www.4psenergyconsultant.com/)
+3. [Iplexinfotec.com](https://www.iplexinfotech.com/)
+4. [Bhole G Namkeen](https://www.bholegnamkeen.com/)
+5. TheBuilder
+6. Digital Restro
+7. Streamline Transportation Technologies Inc
 
 > Note: Several projects I've contributed to are under NDAs and cannot be disclosed publicly.
 
